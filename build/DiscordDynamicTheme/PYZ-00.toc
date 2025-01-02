@@ -1,0 +1,3 @@
+('C:\\Users\\bebru\\OneDrive\\Рабочий '
+ 'стол\\BackgroundSLider\\build\\DiscordDynamicTheme\\PYZ-00.pyz',
+ [])
